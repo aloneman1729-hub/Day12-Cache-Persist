@@ -1,0 +1,16 @@
+transaction_id,customer_id,product,category,quantity,amount,status
+T001,C101,Laptop,Electronics,1,50000,COMPLETED
+T002,C102,Mouse,Electronics,2,2000,COMPLETED
+T003,C103,Keyboard,Electronics,1,2000,COMPLETED
+T004,C101,Monitor,Electronics,1,15000,COMPLETED
+T005,C104,Headphones,Accessories,2,6000,COMPLETED
+T006,C105,Laptop,Electronics,1,50000,CANCELLED
+T007,C102,Mouse,Electronics,3,3000,COMPLETED
+T008,C106,Keyboard,Electronics,2,4000,COMPLETED
+T009,C103,Monitor,Electronics,1,15000,COMPLETED
+T010,C101,Headphones,Accessories,1,3000,COMPLETED
+T011,C107,Laptop,Electronics,1,50000,COMPLETED
+T012,C104,Mouse,Electronics,2,2000,COMPLETED
+T013,C105,Monitor,Electronics,1,15000,CANCELLED
+T014,C106,Headphones,Accessories,3,9000,COMPLETED
+T015,C107,Keyboard,Electronics,1,2000,COMPLETED
